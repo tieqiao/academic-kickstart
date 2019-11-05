@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: Professor of Artificial Intelligence
+name: yer
 
 # Organizations/Affiliations
 organizations:
