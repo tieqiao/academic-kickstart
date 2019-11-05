@@ -29,7 +29,7 @@ education:
   courses:
   - course: BSc in Computer Science
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: Expected 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
