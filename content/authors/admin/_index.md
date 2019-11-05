@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Student, ACM-ICPC Contestant
+#role: Senior Student, ACM-ICPC Contestant
 
 # Organizations/Affiliations
 organizations:
