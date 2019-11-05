@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tieqiao
+name: TIEQIAO'S HOMEPAGE
 
 # Username (this should match the folder name)
 authors:
