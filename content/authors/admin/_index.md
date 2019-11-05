@@ -15,21 +15,21 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: University of Jinan
-  url: ""
+  url: "http://www.ujn.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, computer vision and data mining.
 
-experience:
-- Artificial Intelligence
-- Computer Vision
-- Data Mining
+# experience:
+# - Artificial Intelligence
+# - Computer Vision
+# - Data Mining
 
-# education:
-#   courses:
-#   - course: BSc in Computer Science
-#     institution: University of Jinan
-#     year: Expected 2020
+education:
+  courses:
+  - course: BSc in Computer Science
+    institution: University of Jinan
+    year: Expected 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
