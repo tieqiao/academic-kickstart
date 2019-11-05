@@ -20,11 +20,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Assistant"
-  company = "Institute of Pattern Recognition and Intelligent System, Jinan, China"
+  company = "Computational Intelligence and Image Processing Group, Jinan, China"
   company_url = ""
   location = "Jinan, China"
-  date_start = "2016-12-01"
-  date_end = "2018-06-31"
+  date_start = "2018-07-01"
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
