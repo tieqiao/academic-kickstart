@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Tieqiao is an outstanding student majoring computer science at University of Jinan. His research interests include include machine learning, computer vision and data mining. 
+Tieqiao is an outstanding student majoring computer science at University of Jinan. His research interests include machine learning, computer vision and data mining. 
 
