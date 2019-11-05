@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Tieqiao
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
-name: yer
+role: #
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Jinan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
