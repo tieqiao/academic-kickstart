@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Student, ACM-ICPC contestant
+role: Senior Student, ACM-ICPC Contestant
 
 # Organizations/Affiliations
 organizations:
@@ -22,18 +22,12 @@ bio: My research interests include machine learning, computer vision and data mi
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Data Mining
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: BSc in Computer Science
     institution: Massachusetts Institute of Technology
     year: 2008
 
