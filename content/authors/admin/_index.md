@@ -29,6 +29,7 @@ education:
   courses:
   - course: BSc in Computer Science
     institution: University of Jinan
+    url: "http://www.ujn.edu.cn/"
     year: Expected 2020
 
 # Social/Academic Networking
